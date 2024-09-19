@@ -17,12 +17,12 @@ replace (
 )
 
 require (
-	cloud.google.com/go/bigquery v1.37.0
-	cloud.google.com/go/firestore v1.6.1
-	cloud.google.com/go/functions v1.5.0
-	cloud.google.com/go/logging v1.5.0
-	cloud.google.com/go/pubsub v1.24.0
-	cloud.google.com/go/storage v1.24.0
+	cloud.google.com/go/bigquery v1.62.0
+	cloud.google.com/go/firestore v1.16.0
+	cloud.google.com/go/functions v1.19.0
+	cloud.google.com/go/logging v1.11.0
+	cloud.google.com/go/pubsub v1.42.0
+	cloud.google.com/go/storage v1.43.0
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0
 	github.com/Masterminds/sprig v2.22.0+incompatible
@@ -34,7 +34,7 @@ require (
 	github.com/gardener/component-cli v0.43.0
 	github.com/gardener/component-spec/bindings-go v0.0.65
 	github.com/ghodss/yaml v1.0.0
-	github.com/go-logr/logr v0.4.0
+	github.com/go-logr/logr v1.4.2
 	github.com/go-yaml/yaml v2.1.0+incompatible
 	github.com/google/go-containerregistry v0.7.1-0.20211203164431-c75901cce627
 	github.com/google/go-github/v40 v40.0.0
@@ -56,13 +56,13 @@ require (
 	github.com/spf13/cobra v1.5.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.10.0 // indirect
-	github.com/stretchr/testify v1.8.0
-	github.com/tidwall/gjson v1.14.1
+	github.com/stretchr/testify v1.9.0
+	github.com/tidwall/gjson v1.14.2
 	github.com/vrischmann/envconfig v1.3.0
 	go.uber.org/zap v1.21.0
-	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
-	golang.org/x/oauth2 v0.0.0-20220622183110-fd043fe589d2
-	google.golang.org/api v0.90.0
+	golang.org/x/net v0.29.0
+	golang.org/x/oauth2 v0.23.0
+	google.golang.org/api v0.198.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.22.2
