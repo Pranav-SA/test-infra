@@ -52,7 +52,7 @@ require (
 	github.com/sigstore/cosign v1.2.1
 	github.com/sigstore/sigstore v1.0.1
 	github.com/sirupsen/logrus v1.9.0
-	github.com/smartystreets/goconvey v1.7.2
+	github.com/smartystreets/goconvey v1.8.1
 	github.com/spf13/cobra v1.5.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.10.0 // indirect
@@ -60,7 +60,7 @@ require (
 	github.com/tidwall/gjson v1.14.1
 	github.com/vrischmann/envconfig v1.3.0
 	go.uber.org/zap v1.21.0
-	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
+	golang.org/x/net v0.8.0
 	golang.org/x/oauth2 v0.0.0-20220622183110-fd043fe589d2
 	google.golang.org/api v0.90.0
 	gopkg.in/yaml.v2 v2.4.0
