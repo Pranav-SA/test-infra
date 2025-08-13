@@ -1,6 +1,6 @@
 # Basic setup for Prow jobs
 
-FROM debian:11
+FROM debian:13
 
 # Commit details
 
